@@ -780,7 +780,7 @@ and redirects."
    (environment "e" ((t . "config/environments/")) nil)
    (application "a" ((t . "config/application.rb")) nil)
    (configuration "n" ((t . "config/")) nil)
-   (script "s" ((t . "script/")) nil)
+   (bin "b" ((t . "bin/")) nil)
    (lib "l" ((t . "lib/")) nil)
    (log "o" ((t . "log/")) nil)
    (worker "w" ((t . "lib/workers/")) nil)
